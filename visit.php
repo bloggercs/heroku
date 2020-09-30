@@ -20,7 +20,7 @@ function file_getcontent_with_proxy($urltoget) {
 
 
 $urls = array (
-  array("test","https://cron-job.org"),
+  array("alaradilrapp","http://kandillihamit.pserver.ru/alaradilrapp/index.php"),
   array("test2","https://cron-job.org"),
   array("test2","https://cron-job.org"),
 );
