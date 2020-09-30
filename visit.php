@@ -21,8 +21,8 @@ function file_getcontent_with_proxy($urltoget) {
 
 $urls = array (
   array("alaradilrapp","http://kandillihamit.pserver.ru/alaradilrapp/index.php"),
-  array("test2","https://cron-job.org"),
-  array("test2","https://cron-job.org"),
+  array("alexsandragatesss","http://kandillihamit.pserver.ru/alexsandragatesss/index.php"),
+  array("lianagustavvv17","http://kandillihamit.pserver.ru/lianagustavvv17/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
