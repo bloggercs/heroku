@@ -71,6 +71,7 @@ $urls = array (
   array("alaramorgennn18","http://kandillihamit.pserver.ru/alaramorgennn18/index.php"),
   array("rairaravensis","http://kandillihamit.pserver.ru/rairaravensis/index.php"),
   array("lainagustavv","http://kandillihamit.pserver.ru/lainagustavv/index.php"),
+  array("rickyyjoradd","http://kandillihamit.pserver.ru/rickyyjoradd/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
