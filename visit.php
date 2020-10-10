@@ -60,8 +60,6 @@ $urls = array (
   array("saragantess45","http://kandillihamit.pserver.ru/saragantess45/index.php"),
   array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
   array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
-  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
-  array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
   array("xansolo","http://kandillihamit.pserver.ru/xansolo/index.php"),
