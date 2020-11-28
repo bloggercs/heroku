@@ -88,6 +88,8 @@ $urls = array (
   array("stannnizwwizzli","http://kandillihamit.pserver.ru/stannnizwwizzli/index.php"),
   array("saramilners24","http://kandillihamit.pserver.ru/saramilners24/index.php"),
   array("roni36wizzli","http://kandillihamit.pserver.ru/roni36wizzli/index.php"),
+  array("maisegyatess56","http://kandillihamit.pserver.ru/maisegyatess56/index.php"),
+  array("gizeleerodriguezz","http://kandillihamit.pserver.ru/gizeleerodriguezz/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
