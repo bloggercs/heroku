@@ -114,6 +114,6 @@ while ( 1 ){
     }
     //echo "sleeping<br>";
     file_put_contents("php://stderr", "Tot:$st - Succes:$dt\n");
-    sleep(240);
+    sleep(60);
 }
 ?>
