@@ -109,6 +109,13 @@ $urls = array (
   array("cyrstal27green","http://kandillihamit.pserver.ru/cyrstal27green/index.php"),
   array("cyrstal27green","http://kandillihamit.pserver.ru/cyrstal27green/index.php"),
   array("cyrstal27green","http://kandillihamit.pserver.ru/cyrstal27green/index.php"),
+  array("alexsisregard8967","http://kandillihamit.pserver.ru/alexsisregard8967/index.php"),
+  array("alexsisregard8967","http://kandillihamit.pserver.ru/alexsisregard8967/index.php"),
+  array("alexsisregard8967","http://kandillihamit.pserver.ru/alexsisregard8967/index.php"),
+  array("alexsisregard8967","http://kandillihamit.pserver.ru/alexsisregard8967/index.php"),
+  array("alexsisregard8967","http://kandillihamit.pserver.ru/alexsisregard8967/index.php"),
+  array("alexsisregard8967","http://kandillihamit.pserver.ru/alexsisregard8967/index.php"),
+  array("alexsisregard8967","http://kandillihamit.pserver.ru/alexsisregard8967/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
