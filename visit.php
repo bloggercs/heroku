@@ -58,10 +58,6 @@ $urls = array (
   array("EliZaBethOldFiElds21","http://kandillihamit.pserver.ru/EliZaBethOldFiElds21/index.php"),
   array("julesbennethhh56","http://kandillihamit.pserver.ru/julesbennethhh56/index.php"),
   array("saragantess45","http://kandillihamit.pserver.ru/saragantess45/index.php"),
-  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
-  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
-  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
-  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
   array("xansolo","http://kandillihamit.pserver.ru/xansolo/index.php"),
   array("jacmieewegerr","http://kandillihamit.pserver.ru/jacmieewegerr/index.php"),
   array("rohanbrabdibg","http://kandillihamit.pserver.ru/rohanbrabdibg/index.php"),
@@ -108,6 +104,10 @@ $urls = array (
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
+  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
+  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
+  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
+  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
