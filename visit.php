@@ -112,7 +112,6 @@ $urls = array (
   array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
   array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
   array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
-  array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
   array("cherlyreavis","http://kandillihamit.pserver.ru/cherlyreavis/index.php"),
   array("cathyyardleyy","http://kandillihamit.pserver.ru/cathyyardleyy/index.php"),
 );
