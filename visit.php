@@ -121,6 +121,12 @@ $urls = array (
   array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
   array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
   array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
