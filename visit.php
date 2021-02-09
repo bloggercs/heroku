@@ -98,6 +98,8 @@ $urls = array (
   array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
   array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
   array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
+  array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
+  array("mersharo","http://kandillihamit.pserver.ru/mersharo/index.php"),
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
   array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
