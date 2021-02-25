@@ -127,6 +127,22 @@ $urls = array (
   array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
   array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
   array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("suzanne27","http://kandillihamit.pserver.ru/suzanne27/index.php"),
+  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
+  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
+  array("ricardo8596","http://kandillihamit.pserver.ru/ricardo8596/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
+  array("makemagazin","http://kandillihamit.pserver.ru/makemagazin/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
