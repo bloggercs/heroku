@@ -20,7 +20,7 @@ function file_getcontent_with_proxy($urltoget) {
 
 
 $urls = array (
-    array("alaradilrapp","https://kandillihamit.pserver.ru/alaradilrapp/index.php"),
+  array("alaradilrapp","https://kandillihamit.pserver.ru/alaradilrapp/index.php"),
   array("alaradilrapp","https://kandillihamit.pserver.ru/alaradilrapp/index.php"),
   array("alaradilrapp","https://kandillihamit.pserver.ru/alaradilrapp/index.php"),
   array("alaradilrapp","https://kandillihamit.pserver.ru/alaradilrapp/index.php"),
