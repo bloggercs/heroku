@@ -19,9 +19,13 @@ function file_getcontent_with_proxy($urltoget) {
 }
 
 
-$urls = array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"
-  
-    
+$urls = 
+    array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"),
+    array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"),
+    array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"),
+    array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"),
+    array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"),
+    array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";
