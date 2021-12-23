@@ -19,7 +19,7 @@ function file_getcontent_with_proxy($urltoget) {
 }
 
 
-$urls = array (
+$urls = array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"
   
     
 );
