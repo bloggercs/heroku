@@ -116,6 +116,10 @@ $urls = array (
     array ("mersharo","https://kandillihamit.pserver.ru/mersharo/index.php"),
     array ("mersharo","https://kandillihamit.pserver.ru/mersharo/index.php"),
     array ("mersharo","https://kandillihamit.pserver.ru/mersharo/index.php"),
+    array ("mersharo","https://kandillihamit.pserver.ru/mersharo/index.php"),
+    array ("mersharo","https://kandillihamit.pserver.ru/mersharo/index.php"),
+    array ("mersharo","https://kandillihamit.pserver.ru/mersharo/index.php"),
+    array ("mersharo","https://kandillihamit.pserver.ru/mersharo/index.php")
 );
 $st = count($urls);
 //echo "Start ht";
