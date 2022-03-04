@@ -24,10 +24,10 @@ $urls = array (
     array ("elizemake","https://elizemake.euserverpro.xyz/?name=elizemake"),
     array ("elizemake","https://elizemake.euserverpro.xyz/?name=elizemake"),
     array ("elizemake","https://elizemake.euserverpro.xyz/?name=elizemake"),
-    array ("menlovemake","https://elizemake.euserverpro.xyz/?name=menlovemake"),
-    array ("menlovemake","https://elizemake.euserverpro.xyz/?name=menlovemake"),
-    array ("menlovemake","https://elizemake.euserverpro.xyz/?name=menlovemake"),
-    array ("menlovemake","https://elizemake.euserverpro.xyz/?name=menlovemake"),
+    array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake"),
+    array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake"),
+    array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake"),
+    array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake"),
     
 );
 $st = count($urls);
