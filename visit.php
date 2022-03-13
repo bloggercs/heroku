@@ -22,10 +22,10 @@ function file_getcontent_with_proxy($urltoget) {
 $urls = array (
     array ("elize56hacf","https://elizemake.euserverpro.xyz/?name=elizemake"),
     array ("elize56hacf","https://elizemake.euserverpro.xyz/?name=elizemake"),
-    array ("taimemake","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
-    array ("taimemake","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
+    array ("nailtaimee74","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
+    array ("nailtaimee74","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
     array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake"),
-    array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake")
+    array ("siridedante","https://siridedante.euserverpro.xyz/?name=siridemake")
     
 );
 $st = count($urls);
