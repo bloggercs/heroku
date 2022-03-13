@@ -23,7 +23,7 @@ $urls = array (
     array ("elize56hacf","https://elizemake.euserverpro.xyz/?name=elizemake"),
     array ("elize56hacf","https://elizemake.euserverpro.xyz/?name=elizemake"),
     array ("nailtaimee74","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
-    array ("nailtaimee74","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
+    array ("escinamortan","https://escinamortan.euserverpro.xyz/?name=cinamake"),
     array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake"),
     array ("siridedante","https://siridedante.euserverpro.xyz/?name=siridemake")
     
