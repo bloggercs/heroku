@@ -20,7 +20,6 @@ function file_getcontent_with_proxy($urltoget) {
 
 
 $urls = array (
-    array ("elize56hacf","https://elizemake.euserverpro.xyz/?name=elizemake"),
     array ("kristmake","https://kristmake.euserverpro.xyz/?name=kristmake"),
     array ("nailtaimee74","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
     array ("escinamortan","https://escinamortan.euserverpro.xyz/?name=cinamake"),
