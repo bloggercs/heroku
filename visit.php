@@ -20,16 +20,7 @@ function file_getcontent_with_proxy($urltoget) {
 
 
 $urls = array (
-    array ("kristmake","https://kristmake.euserverpro.xyz/?name=kristmake"),
-    array ("nailtaimee74","https://nailtaimee74.euserverpro.xyz/?name=taimemake"),
-    array ("escinamortan","https://escinamortan.euserverpro.xyz/?name=cinamake"),
-    array ("sermenrlove","https://sermenrlove.euserverpro.xyz/?name=menlovemake"),
-    array ("siridedante","https://siridedante.euserverpro.xyz/?name=siridemake"),
-    array ("esmazefande","https://esmazefande.euserverpro.xyz/?name=zefamake"),
-    array ("sadenifantie","https://sadenifantie.euserverpro.xyz/?name=satiemake"),
-    array ("meriefaile","https://meriefaile.euserverpro.xyz/?name=failemake"),
-    array ("fariedelon","https://fariedelon.euserverpro.xyz/?name=delonmake"),
-    array ("endizalorde","https://endizalorde.euserverpro.xyz/?name=endizamake")
+
     
 );
 $st = count($urls);
